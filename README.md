@@ -1,7 +1,7 @@
 # Object Recognition and Categorization
 ## 1. Create Directory
-    `mkdir yolo-object-detection`
-    `cd yolo-object-detection`
+    ```mkdir yolo-object-detection```
+    ```cd yolo-object-detection```
 ## 2. Dowload Required Files
   https://pjreddie.com/media/files/yolov3.weights
   https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
